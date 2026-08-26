@@ -1,0 +1,8 @@
+﻿title: "초보맘 육아템 & 베이비페어 정보센터"
+description: "9월 코베 베이비페어 및 유아교육전, 임신 출산 꿀팁과 육아템 핫딜 정보를 공유합니다."
+url: "https://baby.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
