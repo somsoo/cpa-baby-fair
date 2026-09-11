@@ -1,170 +1,67 @@
 ---
 layout: default
-title: "임신·출산 준비물 필수 체크리스트 (월별 A to Z)"
+title: "2026 코베 베이비페어 & 유아교육전 공식 무료입장 가이드북"
 permalink: /guide/
 ---
 
-<div class="max-w-4xl mx-auto space-y-8 mt-4">
-  <!-- Hero Banner -->
-  <div class="bg-gradient-to-br from-rose-600 to-rose-800 rounded-2xl p-6 sm:p-10 text-white shadow-lg relative overflow-hidden">
-    <div class="relative z-10">
-      <span class="inline-block px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-xs font-semibold tracking-wide uppercase mb-3">Maternity & Baby Checklist</span>
-      <h1 class="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-tight tracking-tight mb-3 text-white">임신·출산 준비물 필수 체크리스트 (월별 A to Z)</h1>
-      <p class="text-rose-100 text-sm sm:text-base max-w-2xl leading-relaxed">예비맘 & 초보 부모를 위한 과소비 없는 실속 출산 준비 가이드</p>
-      <div class="flex flex-wrap items-center gap-4 mt-6 text-xs text-rose-200 font-medium">
-        <span class="flex items-center">🕒 열람 시간: 약 5분 소요</span>
-        <span>•</span>
-        <span class="flex items-center">🔄 최신 검증: 2026년 가이드라인 적용</span>
-      </div>
-    </div>
-  </div>
-
-  <!-- Interactive Checklist Section -->
-  <div class="bg-white rounded-2xl border border-gray-100 p-6 sm:p-8 shadow-sm">
-    <div class="border-b border-gray-100 pb-4 mb-6">
-      <h2 class="text-xl font-extrabold text-gray-900 flex items-center">
-        <span class="inline-block w-2.5 h-6 bg-rose-600 rounded-full mr-2.5"></span>
-        실전 단계별 핵심 점검표
-      </h2>
-      <p class="text-sm text-gray-500 mt-1">놓치기 쉬운 주요 체크포인트를 단계별로 점검해보세요.</p>
-    </div>
-
-    <div class="space-y-4">
-      
-        <div class="bg-white rounded-xl border border-gray-200 p-5 sm:p-6 shadow-sm hover:shadow-md transition">
-          <div class="flex items-center space-x-3 mb-3">
-            <span class="inline-flex items-center justify-center w-8 h-8 rounded-full bg-rose-100 text-rose-700 font-extrabold text-sm">1</span>
-            <div>
-              <h3 class="text-base sm:text-lg font-bold text-gray-900 m-0">1단계: 임신 초기~중기 (1주 ~ 27주)</h3>
-              <p class="text-xs sm:text-sm text-gray-500 m-0">산모 건강 관리 및 기초 정보 수집</p>
-            </div>
-          </div>
-          <ul class="space-y-2 text-sm text-gray-700 mt-4 pl-0 list-none">
-            <li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>국민행복카드 신청 및 바우처 혜택 확인</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>태아보험 가입 (임신 22주 이내 가입 필수)</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>산후조리원 예약 (인기 조리원은 임신 8~12주 차 마감)</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>임부복 및 임산부 영양제(엽산, 철분, 비타민D) 섭취</span></li>
-          </ul>
-        </div>
-        
-
-        <div class="bg-white rounded-xl border border-gray-200 p-5 sm:p-6 shadow-sm hover:shadow-md transition">
-          <div class="flex items-center space-x-3 mb-3">
-            <span class="inline-flex items-center justify-center w-8 h-8 rounded-full bg-rose-100 text-rose-700 font-extrabold text-sm">2</span>
-            <div>
-              <h3 class="text-base sm:text-lg font-bold text-gray-900 m-0">2단계: 임신 후기 (28주 ~ 36주)</h3>
-              <p class="text-xs sm:text-sm text-gray-500 m-0">아기방 꾸미기 및 필수 육아용품 구비</p>
-            </div>
-          </div>
-          <ul class="space-y-2 text-sm text-gray-700 mt-4 pl-0 list-none">
-            <li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>의류/침구류: 배냇저고리 3~4벌, 속싸개, 손발싸개, 방수요</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>수유용품: 젖병(160ml 3~4개), 젖병소독기, 수유쿠션</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>목욕/위생: 아기욕조, 무자극 샴푸앤바스, 비판텐 연고, 온습도계</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>외출/가구: 카시트(신생아용/바구니형), 아기침대, 모빌</span></li>
-          </ul>
-        </div>
-        
-
-        <div class="bg-white rounded-xl border border-gray-200 p-5 sm:p-6 shadow-sm hover:shadow-md transition">
-          <div class="flex items-center space-x-3 mb-3">
-            <span class="inline-flex items-center justify-center w-8 h-8 rounded-full bg-rose-100 text-rose-700 font-extrabold text-sm">3</span>
-            <div>
-              <h3 class="text-base sm:text-lg font-bold text-gray-900 m-0">3단계: 출산 직전 (37주 ~ 출산)</h3>
-              <p class="text-xs sm:text-sm text-gray-500 m-0">출산 가방 패킹 및 산후 케어 세팅</p>
-            </div>
-          </div>
-          <ul class="space-y-2 text-sm text-gray-700 mt-4 pl-0 list-none">
-            <li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>산모 수첩, 신분증, 세면도구, 맘스안심팬티/수유패드</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>조리원 퇴소 시 아기 옷(배냇저고리, 겉싸개)</span></li><li class="flex items-start"><span class="text-rose-600 font-bold mr-2">✓</span><span>정부 산후도우미 지원 바우처 신청 (보건소)</span></li>
-          </ul>
-        </div>
-        
-    </div>
-  </div>
-
-  <!-- Mid-Article Google AdSense Container -->
-  <div class="manual-ad-container my-8">
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-2228289204702106"
-         data-ad-slot="auto"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-    <script>
-         (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-  </div>
-
-  <!-- Curated Partner Recommendation Card (Affiliate / Coupang) -->
-  <div class="bg-gradient-to-r from-gray-50 to-rose-50/30 rounded-2xl border-2 border-rose-200 p-6 sm:p-8 shadow-sm">
-    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-gray-200 pb-4 mb-4">
-      <div>
-        <span class="inline-block px-2.5 py-0.5 bg-rose-600 text-white rounded text-xs font-bold uppercase tracking-wider mb-1">예비맘 필수 행사</span>
-        <h3 class="text-lg sm:text-xl font-bold text-gray-900 m-0">2026 코베 베이비페어 & 유아교육전 무료 사전등록</h3>
-      </div>
-      <a href="https://iryan.kr/t8gzsjp133" target="_blank" rel="noopener noreferrer" 
-         class="inline-flex items-center justify-center px-6 py-3 bg-rose-600 hover:bg-rose-700 text-white font-bold rounded-xl shadow transition transform hover:-translate-y-0.5 text-sm shrink-0">
-        베이비페어 무료입장권 & 사은품 신청하기 →
-      </a>
-    </div>
-    
-    <p class="text-sm text-gray-700 leading-relaxed mb-3">유모차, 카시트, 아기 옷 등 고가 육아용품을 인터넷 최저가보다 저렴하게 직접 만져보고 비교할 수 있는 대규모 박람회입니다.</p>
-    <div class="bg-white rounded-lg p-3 border border-gray-200 text-xs text-gray-600 mb-4">
-      🎁 <strong>주요 혜택:</strong> 사전등록 시 입장료 100% 무료 | 100% 당첨 선착순 경품 이벤트 | 현장 단독 핫딜
-    </div>
-
-    <!-- FTC / Fair Trade Commission Disclosure -->
-    <p class="text-xs text-gray-400 leading-relaxed border-t border-gray-200 pt-3 m-0">
-      📢 이 포스팅은 제휴마케팅 활동의 일환으로, 이에 따른 일정액의 수수료를 지급받을 수 있으나 이용자에게 추가 비용은 전혀 발생하지 않습니다.
+<article class="max-w-4xl mx-auto bg-white rounded-2xl shadow-sm border border-gray-100 p-6 sm:p-10 md:p-12 mt-4">
+  <header class="mb-10 text-center">
+    <span class="inline-block px-4 py-1.5 bg-blue-100 text-blue-800 text-sm font-semibold rounded-full mb-3">2026 공식 종합 가이드</span>
+    <h1 class="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight mb-4">
+      2026 코베 베이비페어 & 유아교육전 공식 무료입장 가이드북
+    </h1>
+    <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto">
+      사전등록 무료입장 바코드 발급부터 선착순 출산 선물 수령 꿀팁
     </p>
+  </header>
+
+  <!-- 공식 혜택 및 신청 링크 박스 (허브 CTA) -->
+  <div class="my-10 p-6 md:p-8 bg-gradient-to-br from-blue-50 to-indigo-50 border-2 border-blue-500 rounded-2xl text-center shadow-md">
+    <span class="text-xs md:text-sm font-bold tracking-wider text-blue-600 uppercase">공식 접수처 프로모션</span>
+    <h2 class="text-xl md:text-2xl font-black text-gray-900 mt-2 mb-3">
+      💡 코베 베이비페어 무료입장 사전등록 & 100% 경품 이벤트
+    </h2>
+    <p class="text-gray-700 text-sm md:text-base leading-relaxed mb-6 max-w-2xl mx-auto">
+      현장 발권 시 1인당 10,000원의 입장료가 발생합니다. 지금 사전등록을 완료하고 동반 1인까지 평생 무료입장 바코드와 육아용품 할인쿠폰을 수령하세요.
+    </p>
+    <a href="https://iryan.kr/t8gzsjp133" target="_blank" rel="nofollow sponsored"
+       class="inline-block w-full max-w-md py-4 px-6 bg-blue-600 hover:bg-blue-700 text-white font-bold text-lg rounded-xl shadow-lg transition-all duration-200 transform hover:-translate-y-0.5">
+      👉 베이비페어 무료입장권 즉시 발급받기 ▶
+    </a>
+    <p class="text-xs text-gray-400 mt-3">* 본 혜택 및 신청은 선착순 및 주관사 사정에 따라 조기 마감될 수 있습니다.</p>
   </div>
 
-  <!-- FAQ Section -->
-  <div class="bg-white rounded-2xl border border-gray-100 p-6 sm:p-8 shadow-sm">
-    <div class="border-b border-gray-100 pb-4 mb-6">
-      <h2 class="text-xl font-extrabold text-gray-900 flex items-center">
-        <span class="inline-block w-2.5 h-6 bg-rose-600 rounded-full mr-2.5"></span>
-        자주 묻는 질문 (FAQ)
-      </h2>
-      <p class="text-sm text-gray-500 mt-1">독자분들이 가장 많이 질문하시는 핵심 사항입니다.</p>
-    </div>
-    <div class="space-y-3">
-      
-        <div class="border border-gray-200 rounded-xl p-4 bg-gray-50/50">
-          <h4 class="font-bold text-gray-900 text-sm sm:text-base flex items-center mb-2">
-            <span class="text-rose-600 font-black mr-2">Q.</span>유모차와 카시트는 언제 미리 사두는 게 좋나요?
-          </h4>
-          <p class="text-xs sm:text-sm text-gray-600 leading-relaxed pl-5 m-0">카시트는 조리원 퇴소 시 병원에서 집으로 이동할 때 신생아가 탑승해야 하므로 출산 1개월 전(35~36주)까지는 차량에 설치해 두어야 합니다. 유모차는 100일 이전에는 외출이 적으므로 베이비페어에서 직접 핸들링을 테스트해보고 천천히 결정하셔도 좋습니다.</p>
-        </div>
-        
+  <!-- 핵심 가이드 내용 -->
+  <div class="prose prose-blue prose-lg max-w-none text-gray-800 leading-relaxed">
+    <h2>1. 9월 코베 베이비페어&유아교육전 혜택 핵심 개요</h2>
+    <p>
+      2026년을 맞이하여 관련 규정과 혜택이 대폭 개편되었습니다. 신청 전 반드시 자격 요건과 지원 절차를 사전에 확인하여 불이익을 방지하고 최상의 혜택을 누리시기 바랍니다.
+    </p>
 
-        <div class="border border-gray-200 rounded-xl p-4 bg-gray-50/50">
-          <h4 class="font-bold text-gray-900 text-sm sm:text-base flex items-center mb-2">
-            <span class="text-rose-600 font-black mr-2">Q.</span>젖병은 유리젖병과 PPSU 중 무엇이 낫나요?
-          </h4>
-          <p class="text-xs sm:text-sm text-gray-600 leading-relaxed pl-5 m-0">초기 열탕 소독과 위생에는 유리젖병이 탁월하지만 무겁고 깨질 위험이 있습니다. 100일 이후 아기가 손으로 잡기 시작하면 가볍고 열에 강한 PPSU 젖병으로 전환하는 조합이 가장 대중적입니다.</p>
-        </div>
-        
+    <h2>2. 주요 자격 요건 및 확인 사항</h2>
+    <p>
+      공식 주관 기관의 기준에 따라 대상자를 선정하며, 사전 예약 또는 무료 상담 완료 시 맞춤형 가이드 자료가 우선 배정됩니다.
+    </p>
 
-        <div class="border border-gray-200 rounded-xl p-4 bg-gray-50/50">
-          <h4 class="font-bold text-gray-900 text-sm sm:text-base flex items-center mb-2">
-            <span class="text-rose-600 font-black mr-2">Q.</span>베이비페어에 갈 때 팁이 있나요?
-          </h4>
-          <p class="text-xs sm:text-sm text-gray-600 leading-relaxed pl-5 m-0">사전등록을 해두면 입장 대기 없이 즉시 무료입장이 가능하며, 입점 브랜드 맵을 미리 확인해 선착순 증정 부스부터 방문하는 것이 가장 효율적입니다.</p>
-        </div>
-        
-    </div>
+    <h2>3. 실패 없는 신청 및 활용 3단계 로드맵</h2>
+    <ol>
+      <li><strong>사전 요건 정밀 진단</strong>: 본인의 자격 조건 및 프로모션 대상 여부를 먼저 확인합니다.</li>
+      <li><strong>공식 창구를 통한 무료 접수</strong>: 사설 대행업체가 아닌 공식 제휴 창구를 통해 안전하게 신청합니다.</li>
+      <li><strong>전문 상담원 확인 및 혜택 수령</strong>: 접수 후 제공되는 안내 절차에 따라 필요한 지원을 즉시 수령합니다.</li>
+    </ol>
   </div>
 
-  <!-- Bottom Google AdSense Container -->
-  <div class="manual-ad-container my-8">
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-2228289204702106"
-         data-ad-slot="auto"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-    <script>
-         (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+  <!-- 하단 2차 공식 CTA -->
+  <div class="mt-12 pt-8 border-t border-gray-200 text-center">
+    <h3 class="text-lg font-bold text-gray-900 mb-2">2026 공식 지원 및 무료 혜택 즉시 확인</h3>
+    <p class="text-sm text-gray-600 mb-5">접수 완료 시 최신 공시자료 및 상세 해설집이 무료로 제공됩니다.</p>
+    <a href="https://iryan.kr/t8gzsjp133" target="_blank" rel="nofollow sponsored"
+       class="inline-block py-3 px-8 bg-blue-600 hover:bg-blue-700 text-white font-bold text-base rounded-lg shadow transition">
+      👉 베이비페어 무료입장권 즉시 발급받기 ▶
+    </a>
   </div>
 
-  <!-- Anonymous Feedback Notice (No Personal Contact Info) -->
-  <div class="bg-gray-50 rounded-xl p-5 border border-gray-200 text-center text-xs text-gray-500 leading-relaxed">
-    본 가이드의 정보는 최신 공시 및 공식 데이터를 바탕으로 주기적으로 업데이트됩니다. 
-    콘텐츠 오류 제보 및 피드백은 시스템 익명 채널을 통해 안전하게 검토 및 처리됩니다.
-  </div>
-</div>
+  <footer class="mt-12 pt-6 border-t border-gray-100 text-center text-xs text-gray-400">
+    <p>본 페이지는 제휴마케팅 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받을 수 있습니다. 본 안내 리포트는 킨텍스/코엑스 베이비페어 공식 주관사 공시 일정을 바탕으로 정보 제공 목적으로 작성되었습니다.</p>
+  </footer>
+</article>
